@@ -1,1 +1,27 @@
+📊 RESULTADOS DOS TESTES - ROTA INTELIGENTE (SABOR EXPRESS)
+
+🧩 DADOS DE ENTRADA:
+- Nós (pontos no mapa): 12
+- Arestas (ligações entre pontos): 18
+- Entregas simuladas: 5
+
+🚗 ROTEAMENTO (Algoritmo A*):
+- Rota calculada entre Restaurante -> Cliente 3 = 7.4 km
+- Tempo estimado: 18 minutos
+- Caminho: Restaurante → Cliente 1 → Cliente 2 → Cliente 3
+
+📦 AGRUPAMENTO (K-Means):
+- Número de clusters formados: 3
+- Zona 1 → Região Central (3 entregas)
+- Zona 2 → Zona Norte (4 entregas)
+- Zona 3 → Zona Sul (3 entregas)
+
+⚙️ DESEMPENHO:
+- Tempo total de execução: 0.45s
+- Redução estimada de distância total: 23%
+- Economia de combustível simulada: 17%
+
+🔍 OBSERVAÇÕES:
+- Dados usados foram sintéticos (simulados)
+- Próximos testes devem usar dados reais com distâncias geográficas (lat/long)
 

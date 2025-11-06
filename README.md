@@ -59,6 +59,15 @@ O sistema demonstra ganho de eficiência operacional e menor custo de combustív
 📈 Limitações: o modelo não considera variações de tráfego em tempo real.
 💡 Sugestão de melhoria: integração com APIs de mapas e tráfego (ex: Google Maps API) para rotas dinâmicas.
 
+Análise dos resultados:
+
+Os testes mostraram que o algoritmo A* foi capaz de reduzir o tempo e distância média das entregas.  
+O K-Means agrupou as entregas em zonas otimizadas, facilitando o trabalho dos entregadores.
+
+📁 Veja os detalhes completos dos testes:
+[docs/resultados.txt](docs/resultados.txt)
+
+
 🗂 Estrutura de Pastas
 rota-inteligente/
 ├── README.md

@@ -86,7 +86,7 @@ rota-inteligente/
 ▶️ No Google Colab
 
 Acesse o notebook no link abaixo:
-👉 Abrir no Colab
+👉 Abrir no Colab https://colab.research.google.com/drive/1lyJkLBGNUG8_dSugg9KY3BxlIjn19nJJ?usp=sharing
 
 Execute as células em sequência.
 
